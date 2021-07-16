@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a boy still looking for a ⭐ in SW :)
+**I'm a boy still looking for a ⭐ in SW :)**
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hongjungkimm&show_icons=true)
 
