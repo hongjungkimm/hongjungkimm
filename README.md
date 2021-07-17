@@ -4,7 +4,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hongjungkimm&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjungkimm&langs_count=10&layout=compact&theme=dark)](https://github.com/hongjungkimm/hongjungkimm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjungkimm)](https://github.com/hongjungkimm/hongjungkimm)
 
 
 
