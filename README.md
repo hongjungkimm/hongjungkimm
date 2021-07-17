@@ -4,7 +4,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hongjungkimm&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjungkimm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjungkimm&langs_count=10&layout=compact&theme=dark)](https://github.com/hongjungkimm/hongjungkimm)
+
+
 
 <!--
 **hongjungkimm/hongjungkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
