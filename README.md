@@ -2,7 +2,7 @@
 
 **I'm still looking for a ⭐ in SW :)**
 
-**I'm currently SW in SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY).**
+**I'm currently SW in `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)`.**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hongjungkimm&show_icons=true)
 
