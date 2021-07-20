@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm still looking for a ⭐ in SW :)**
+**I'm still looking for my ⭐ in SW :)**
 
 **And I'm currently learning SW in `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)`.**
 
