@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😀
 
 **I'm still looking for my ⭐ in SW :)**
 
