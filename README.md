@@ -7,6 +7,7 @@
 **And I'm currently learning SW in `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)`.**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hongjungkimm&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjungkimm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
