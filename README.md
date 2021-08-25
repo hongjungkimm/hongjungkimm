@@ -1,5 +1,5 @@
 # Hello World 😺
-**I'm still looking for my ⭐ in the 🌎 :)
+**I'm still looking for my ⭐ in the 🌎 :)**
 
 ## Educational Background
 - graduated **Hankuk University of Foreign Studies (a.k.a. HUFS)** 👨‍🎓
