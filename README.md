@@ -1,8 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhongjungkimm&count_bg=%23DFD021&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 😀
 
-**I'm still looking for my ⭐ in SW :)**  
-**And I'm currently learning SW in `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)`.**
+**I'm still looking for my ⭐ in `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` :)**  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hongjungkimm&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hong267)](https://solved.ac/hong267/)
