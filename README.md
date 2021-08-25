@@ -11,6 +11,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjungkimm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+
 <!--
 **hongjungkimm/hongjungkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
