@@ -1,10 +1,11 @@
-# Hello world 🌎
-**I'm still looking for my ⭐ in `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` :)**  
+# Hello World 😺
+**I'm still looking for my ⭐ in the 🌎 :)
 
-## Education
+## Educational Background
 - graduated **Hankuk University of Foreign Studies (a.k.a. HUFS)** 👨‍🎓
 - majored in **Business Administration** 📊
 - minored in **Japanese Regional Studies** 🎌
+- learning SW in **SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)** 👨‍💻
 
 ## Blog
 [![Naver_Blog](http://img.shields.io/badge/Travel_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/hong267)
