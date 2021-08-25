@@ -1,4 +1,4 @@
-## Hello world 🌎
+# Hello world 🌎
 **I'm still looking for my ⭐ in `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` :)**  
 
 ## Who am I
