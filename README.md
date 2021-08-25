@@ -2,7 +2,7 @@
 **I'm still looking for my ⭐ in the 🌎 :)**
 
 ## Educational Background
-- **graduated** `Hankuk University of Foreign Studies (a.k.a. HUFS)` 👨‍🎓
+- **graduated ** `Hankuk University of Foreign Studies (a.k.a. HUFS)` 👨‍🎓
 - **majored in** `Business Administration` 📊
 - **minored in** `Japanese Regional Studies` 🎌
 - **learning SW in** `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` 👨‍💻
