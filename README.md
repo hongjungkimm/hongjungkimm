@@ -1,7 +1,7 @@
 # Hello world 🌎
 **I'm still looking for my ⭐ in `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` :)**  
 
-## Who is HongJung Kim
+## I
 - graduated **Hankuk University of Foreign Studies (a.k.a. HUFS)** 👨‍🎓
 - majored in **Business Administration** 📊
 - minored in **Japanese Regional Studies** 🎌
