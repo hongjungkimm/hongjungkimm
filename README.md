@@ -9,7 +9,7 @@
 
 ## Blog
 [![Naver_Blog](http://img.shields.io/badge/Travel_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/hong267)
-[![Tistory Badge](https://img.shields.io/badge/Tech_Blog-blue?style=flat&logo=Tistory&logoColor=white)](https://hong267.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech_Blog-005CED?style=flat&logo=Tistory&logoColor=white)](https://hong267.tistory.com/)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
