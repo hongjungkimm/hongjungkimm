@@ -1,5 +1,5 @@
 # Hello World 😺
-**I'm still looking for my ⭐ in the 🌎 :)**
+**I'm making my dev_palette everyday (!!)** 🎨
 
 ## Educational Background
 - **graduated from** `Hankuk University of Foreign Studies (a.k.a. HUFS)` 👨‍🎓
