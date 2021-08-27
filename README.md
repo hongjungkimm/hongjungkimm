@@ -8,8 +8,8 @@
 - **learning SW in** `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` 👨‍💻
 
 ## Blog
-[![Naver_Blog](http://img.shields.io/badge/Travel_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/hong267)
 [![Velog Badge](https://img.shields.io/badge/Tech_Blog-C71A36?style=flat&logo=ApacheMaven&logoColor=white)](https://velog.io/@hong267)
+[![Naver_Blog](http://img.shields.io/badge/Travel_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/hong267)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
