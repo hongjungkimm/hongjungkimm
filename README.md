@@ -11,6 +11,9 @@
 [![Velog Badge](https://img.shields.io/badge/Tech_Blog-C71A36?style=flat&logo=ApacheMaven&logoColor=white)](https://velog.io/@hong267)
 [![Naver_Blog](http://img.shields.io/badge/Travel_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/hong267)
 
+## Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=flat&logo=About.me&logoColor=white)](https://www.notion.so/Portfolio-634ad220664149cba31209756a63de65)
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
