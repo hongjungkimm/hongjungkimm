@@ -24,11 +24,11 @@
 ## Studying Recently
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 ## Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hong267)](https://solved.ac/hong267/)
