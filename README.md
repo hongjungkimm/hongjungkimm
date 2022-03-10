@@ -5,7 +5,7 @@
 - **graduated from** `Hankuk University of Foreign Studies (a.k.a. HUFS)` 👨‍🎓
 - **majored in** `Business Administration` 📊
 - **minored in** `Japanese Regional Studies` 🎌
-- **learning SW in** `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` 👨‍💻
+- **learned SW in** `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` 👨‍💻
 
 ## Blog
 [![Velog Badge](https://img.shields.io/badge/Tech_Blog-C71A36?style=flat&logo=ApacheMaven&logoColor=white)](https://velog.io/@hong267)
