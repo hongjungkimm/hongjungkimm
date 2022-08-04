@@ -16,6 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=flat&logo=About.me&logoColor=white)](https://www.notion.so/Portfolio-634ad220664149cba31209756a63de65)
 
 ## Tech Stack
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1527B6?style=flat-square&logo=CSS3&logoColor=white)  
@@ -23,7 +24,6 @@
 ![Django](https://img.shields.io/badge/Django-092E90?style=flat-square&logo=Django&logoColor=white)
 
 ## Studying Recently
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)  
