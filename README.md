@@ -6,7 +6,7 @@
 - **majored in** `Business Administration` 📊
 - **minored in** `Japanese Regional Studies` 🎌
 - **learned SW in** `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` 👨‍💻
-- **working at** `LG CNS (Enterprise Solution)` ![LG](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=LG&logoColor=white)
+- **working at** `LG CNS (Enterprise Solution)` 💻
 
 ## Blog
 [![Velog Badge](https://img.shields.io/badge/Tech_Blog-C71A36?style=flat&logo=ApacheMaven&logoColor=white)](https://velog.io/@hong267)
@@ -14,6 +14,7 @@
 
 ## Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=flat&logo=About.me&logoColor=white)](https://www.notion.so/Portfolio-634ad220664149cba31209756a63de65)
+![LG](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=LG&logoColor=white)
 
 ## Tech Stack
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white)
